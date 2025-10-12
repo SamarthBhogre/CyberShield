@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+google-generativeai
+mysql-connector-python
+werkzeug
+requests
+beautifulsoup4
