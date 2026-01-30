@@ -14,17 +14,6 @@ CyberShield is a full-stack cybersecurity project designed to demonstrate practi
 
 ---
 
-## 📁 Project Structure
-
-```text
-CyberShield/
-│── backend/               # Backend server logic
-│── frontend/              # Frontend # CyberShield 🛡️
-
-CyberShield is a full-stack cybersecurity project designed to demonstrate practical security concepts through a web-based application. The project focuses on identifying, analyzing, and handling common cybersecurity threats using a structured backend and an interactive frontend.
-
----
-
 ## 🔍 Features
 
 - Secure backend API
